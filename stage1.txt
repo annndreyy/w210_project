@@ -1,3 +1,3 @@
-W210 stock (updated)
+W210 Stage 1
 CAN: OK
-TO: 15 000 km
+Power: +30 hp
