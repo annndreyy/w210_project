@@ -1,0 +1,1 @@
+Obshchie harakteristiki W210
