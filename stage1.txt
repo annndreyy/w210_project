@@ -1,4 +1,3 @@
-W210 stock (updated)
-TO: 15 000 km
+W210 Stage 1 (merged)
 CAN: OK
 TO: 15 000 km
